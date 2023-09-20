@@ -7,7 +7,7 @@ public class Main {
         Scanner scanner = new Scanner(System.in);
 
         while (true) {
-            System.out.print("Введіть слово або фразу (або введіть 'exit' для виходу): ");
+            System.out.print("Enter a word or phrase (or type 'exit' to exit):");
             String input = scanner.nextLine();
 
             if (input.equalsIgnoreCase("exit")) {
@@ -17,9 +17,9 @@ public class Main {
             boolean isPalindrome = PalindromeChecker.isPalindrome(input);
 
             if (isPalindrome) {
-                System.out.println("Це слово/фраза є паліндромом.");
+                System.out.println("This word/phrase is a palindrome.");
             } else {
-                System.out.println("Це слово/фраза не є паліндромом.");
+                System.out.println("This word/phrase is not a palindrome.");
             }
         }
 
