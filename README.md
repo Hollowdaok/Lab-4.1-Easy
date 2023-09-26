@@ -20,6 +20,6 @@
    testIsPalindromeWithPalindromeWord(), 
    testIsPalindromeWithNonPalindromeWord(),
    testIsPalindromeWithPalindromePhrase(),
-   testIsPalindromeWithNonPalindromePhrase(),
+   testIsPalindromeWithNonPalindromePhrase().
 ## Висновок
    Зроби програму для провірки чи є слово і фраза паліндромом і протестував його.
