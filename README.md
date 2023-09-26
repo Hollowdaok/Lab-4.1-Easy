@@ -16,10 +16,10 @@
    - Виводить повідомлення "This word/phrase is a palindrome." або "This word/phrase is not a palindrome." при паліндромі чи ні.
    - Зроблено так що якщо корстувач введе "exit" то програма завершує свою роботу.
 ### Тести
-Зроби тести для провірки функціональності. в них провіряється чи слово і фраза є палндромами чи ні.
-   testIsPalindromeWithPalindromeWord() 
-   testIsPalindromeWithNonPalindromeWord()
-   testIsPalindromeWithPalindromePhrase()
-   testIsPalindromeWithNonPalindromePhrase()
+Зроби тести для провірки функціональності. в них провіряється чи слово і фраза є палндромами чи ні. Вот такі тести:
+   testIsPalindromeWithPalindromeWord(), 
+   testIsPalindromeWithNonPalindromeWord(),
+   testIsPalindromeWithPalindromePhrase(),
+   testIsPalindromeWithNonPalindromePhrase(),
 ## Висновок
    Зроби програму для провірки чи є слово і фраза паліндромом і протестував його.
